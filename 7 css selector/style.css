@@ -1,0 +1,50 @@
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+.pink{
+    color: pink;
+}
+
+#diffp{
+    color: green;
+}
+
+/* Every element */
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* p whose class is 'text' */
+p.text{
+    font-family: cursive;
+    letter-spacing: 2px;
+    color: blue;
+}
+
+
+/* Paragraph inside div at any point */
+div p{
+    color: red;
+}
+
+/* paragraph inside div strictly */
+div > p{
+    color: cadetblue;
+}
+
+/* Para after a div */
+div + p{
+    color: aquamarine;
+}
+
+
+a[href="something"]{
+    color: green;
+}

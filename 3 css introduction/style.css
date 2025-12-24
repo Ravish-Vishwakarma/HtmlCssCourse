@@ -1,0 +1,22 @@
+h3{
+    color: green;
+    background-color: rgb(120, 255, 150);
+}
+
+div{
+    width: 100px;
+    height: 100px;
+}
+
+section{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
+
+article{
+    height: 20vh;
+    width: 100vw;
+    background-color: grey;
+}
+
