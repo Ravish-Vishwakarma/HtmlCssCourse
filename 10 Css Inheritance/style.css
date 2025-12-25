@@ -1,0 +1,15 @@
+.parent{
+    font-size: 70px;
+    text-align: center;
+    color: blue;
+    background-color: teal;
+}
+
+.child{
+    background-color: green;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}

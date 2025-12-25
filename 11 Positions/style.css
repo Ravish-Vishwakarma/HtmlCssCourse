@@ -1,0 +1,48 @@
+h5{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+/* --------------------------- 1 --------------------------- */
+.parent{
+    background-color: grey;
+    height: 500px;
+    width: 500px;
+}
+
+.one{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+
+    position:relative;
+    left: 100px;
+}
+
+.two{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+
+    position:absolute;
+    left: 200px
+}
+
+.three{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+
+    position: fixed;
+}
+
+.four{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+
+    position: sticky;
+    top:100px
+}
