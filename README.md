@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=bWACo_pvKxg
 -  Forms  
 -  Layout  
 -  Links (Anchor)  
--  ***Project 1:***  *Protfolio*  
+-  ***Project 1:***  *Protfolio* s 
 -  Css Introduction, External Internal and Inline  
 -  Css Typography  
 -  Css Gradient  
@@ -24,3 +24,10 @@ https://www.youtube.com/watch?v=bWACo_pvKxg
 - Css Shadows
 - Css Inheritance
 - Positions
+---
+> Day 3
+- Flexbox
+- Flexbox Froggy Website 24/24
+- Page Layout
+- Grid
+- calc() function in css

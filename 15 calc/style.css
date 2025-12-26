@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box{
+    height: calc(100px + 2em);
+    width: calc(100px + 5px);
+    background-color: blue;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
