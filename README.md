@@ -31,3 +31,7 @@ https://www.youtube.com/watch?v=bWACo_pvKxg
 - Page Layout
 - Grid
 - calc() function in css
+
+
+---
+I think I am done with this, now its turn for React: https://github.com/Ravish-Vishwakarma/React-Course
